@@ -1,0 +1,10 @@
+Package: QQMusic
+Version: 17.66
+Architecture: i386
+Maintainer: gorquan
+Installed-Size: 165068
+Depends: deepin-wine (>= 2.18-12), deepin-wine32 (>= 2.18-12), deepin-wine32-preloader (>= 2.18-12), deepin-wine-helper (>= 1.2deepin8), deepin-wine-uninstaller (>= 0.1deepin2)
+Section: non-free/otherosfs
+Priority: optional
+Multi-Arch: foreign
+Description: Tencent QQMusic Client on Deepin Wine

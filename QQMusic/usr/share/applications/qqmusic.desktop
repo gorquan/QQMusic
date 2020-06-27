@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+X-Created-By=gorquan
+Categories=media;
+Icon=qqmusic
+Exec="/opt/deepinwine/apps/Deepin-QQMusic/run.sh"
+Name=QQMusic
+Name[zh_CN]=QQ音乐
+Comment=Tencent QQMusic Client on Deepin Wine
+StartupWMClass=QQMusic.exe
+MimeType=
